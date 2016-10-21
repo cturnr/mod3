@@ -1,0 +1,28 @@
+body {
+	font-size: 16px;
+	background-color: #0F8899;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	background-color: #FF6700;
+	border-radius: 0;
+	border: 0;
+	height: 60px;
+}
+
+.navbar-brand {
+	float: left;
+}
+
+.navbar-brand h1 {
+	color: #F9F914;
+	font-size: 1.8em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: .75;
+
+}
+
